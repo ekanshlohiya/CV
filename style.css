@@ -1,5 +1,6 @@
 body{
     background-color: #baeee1;
+    line-height: 150%;
 }
 h1,h3{
     color: #10a891;
@@ -13,5 +14,18 @@ a{
     text-decoration: none;
 }
 img{
-    border-radius: 2px;
+    border-radius: 6px;
+}
+.intro{
+    text-align: justify;
+}
+.contact-form{
+    background-color:#f5f5d9;
+    display: block;
+    margin-left: -7px;
+    margin-right: -7px;
+    padding-left: 7px;
+    padding-top: 2px;
+    padding-bottom: 22px;
+    margin-bottom: -7px;;
 }
